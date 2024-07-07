@@ -1,2 +1,2 @@
-# fingerprint-GAN
-Generative adversarial network (GAN) on fingerprint dataset
+# Introduction
+"Main.ipynb" is the main file for presenting my work, there are other notebooks beside this one (such as the notebook "x" for GANs) that I created other generative models to see which one works better. The methods are based on François Chollet - Deep Learning with Python, David Foster - Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play and videos and codes provided in Mr Jeremie Wenger's notebooks. I made GANs with and without batch normalization, trained the generator twice, trained the discriminator twice, and tried different learning rates for the discriminator and generator plus some other techniques mentioned in "NIPS 2016 Workshop on Adversarial Training - Soumith Chintala - How to train a GAN" video. I also tried VAE models on this database.
